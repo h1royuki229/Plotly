@@ -1,0 +1,15 @@
+jupyterlab
+notebook 
+scikit-learn 
+plotly
+dash
+jupyter-dash
+tqdm
+tslearn
+pandas
+jupyterlab-git
+kaleido
+rise
+jupyter_nbextensions_configurator
+jupyterthemes
+lckr-jupyterlab-variableinspector
